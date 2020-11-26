@@ -1,0 +1,5 @@
+* @hmaland
+README.md @hmaland
+*.md      @hmaland
+/docs/*   @docs-team
+*.js      @js-experts-team
